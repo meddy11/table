@@ -1,13 +1,22 @@
-td,th{
+body{
+width: 800%;
+margin: auto;
+padding: 0;
+
+}
+td{
 border: 1px solid black;
+color: red;
 }
 th{
-color: red: 
+border: 1px solid black;
+color: black;
 }
+
 table{
+border: 1px solid black;
 border-collapse: collapse;
-margin: 10px;
-padding: 10px
+margin: 100px 100px 100px 100px;
 }
 
 
