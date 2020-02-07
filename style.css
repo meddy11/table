@@ -1,23 +1,27 @@
 body{
-width: 800%;
-margin: auto;
-padding: 0;
+	margin: 15%;
+	padding: 0;
+}
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 80%;
+}
+th{
+	border: solid black,
+
 
 }
 td{
-border: 1px solid black;
-color: red;
+	border: solid black;
+	text-align: center;
+	font-weight: bold;
 }
-th{
-border: 1px solid black;
-color: black;
+tr{
+	border: solid black;
+	background-color: #D0E3FA;
 }
 
-table{
-border: 1px solid black;
-border-collapse: collapse;
-margin: 100px 100px 100px 100px;
-}
 
 
 
