@@ -1,0 +1,27 @@
+body{
+	margin: 15%;
+	padding: 0;
+}
+table{
+	border: 2px solid black;
+	border-collapse: collapse;
+	width: 80%;
+}
+th{
+	border: solid black,
+
+
+}
+td{
+	border: solid black;
+	text-align: center;
+	font-weight: bold;
+}
+tr{
+	border: solid black;
+	background-color: #D0E3FA;
+}
+
+
+
+
